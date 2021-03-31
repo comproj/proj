@@ -1,0 +1,3 @@
+[submodule "depproj"]
+	path = depproj
+	url = https://github.com/upstream123/depproj.git
